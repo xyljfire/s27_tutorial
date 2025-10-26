@@ -18,7 +18,7 @@ echo "Hello world, hello PHOENIX"
 ```
 - 结果截图：
 **这里插入截图**
-![alt text](image.png)
+<img width="1720" height="352" alt="picture" src="https://github.com/user-attachments/assets/a20ccfcb-8a54-42c0-8849-0e1473c23ffe" />
 
 ---
 仔细思考，冷静分析。
